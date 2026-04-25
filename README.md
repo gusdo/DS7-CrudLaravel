@@ -72,26 +72,28 @@ La tabla `products` contiene los siguientes campos:
 
 ## Resultado
 
-Página del Crud
-![CRUD](CrudV.png)
+* Página del Crud
+  
+![CRUD](crud/CrudV.png)
 
-Formulario de creación
-![CRUD](CrudCreate.png)
-![CRUD](CrudCreate2.png)
+* Formulario de creación
+  
+![CRUD](crud/CrudCreate.png)
+![CRUD](crud/CrudCreate2.png)
 
-Página del Crud (con contenido)
-![CRUD](CrudLLeno.png)
+* Página del Crud (con contenido)
+  
+![CRUD](crud/CrudLLeno.png)
 
-Crud Show
-![CRUD](CrudShow.png)
-![CRUD](CrudShow2.png)
+* Crud Show
 
-Edición de producto
-![CRUD](crud3.png)
+![CRUD](crud/CrudShow.png)
+![CRUD](crud/CrudShow2.png)
 
-Crud Delete
-![CRUD](CrudDelete.png)
-![CRUD](CrudDelete2.png)
+* Crud Delete
+
+![CRUD](crud/CrudDelete.png)
+![CRUD](crud/CrudDelete2.png)
 
 ## Dificultades y Soluciones
 
